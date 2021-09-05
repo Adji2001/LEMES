@@ -1,0 +1,19 @@
+.garis {
+	height: 2px;
+	width: 160px;
+	background-color: orange;
+	margin-left: 40px;
+}
+.titik {
+	height: 2px;
+	width: 90%;
+	background-color: #e9ecef;
+	opacity: 0.6;
+	margin-left: 40px;
+}
+.kotak {
+	height: 400px;
+	width: 100%;
+	background-color: #e9ecef;
+	opacity: 0.6;
+}

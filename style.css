@@ -1,0 +1,50 @@
+.header {
+	border: 2px solid lightgray;
+	background-color: #E9EBEB; 
+	padding: 15px; 
+	text-align: center; 
+	color: red
+}
+.kotak1 {
+	border: 2px solid #E9EBEB;
+	padding: 20px;
+	padding-bottom: 5px;
+}
+span a{
+	text-decoration: none;
+}
+.kotak2 {
+	border: 2px solid #E9EBEB;
+	padding: 20px;	
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.kotak2 h2 {
+	font-family: arial;
+	color: red;
+}
+.kotak2 p {
+	line-height: 2;
+	font-size: 16px;
+}
+.garis {
+	height: 5px;
+	width: 100%;
+	background-color: lightskyblue;
+}
+.par {
+	text-align: center;
+	font-family: arial;
+}
+.baris {
+	height: 2px;
+	width: 90%;
+	background-color: lightskyblue;
+	margin: auto;
+}
+.footer {
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	margin-top: 10px;
+}

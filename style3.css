@@ -1,0 +1,39 @@
+.body {
+	background-color: #e9ecef;
+	height: 1000px;
+	width: 100%;
+}
+.atas {
+	height: ;
+	width: 100%;
+	background-color: white;
+}
+img {
+	float: left;
+}
+p {
+	font: 17px/18px arial;
+	text-indent: 10px;
+}
+h5 {
+	text-indent: 10px;
+}
+.kontent {
+	height: 437px;
+	width: 100%;
+	background-color: #f8f9fa;
+	margin-top: 20px;
+	padding-top: 5px;
+}
+.cok {
+	margin-top: 8px; 
+	margin-left: 20px;
+}
+.titik {
+	height: 2px;
+	width: 90%;
+	background-color: #e9ecef;
+	opacity: 0.6;
+	margin-left: 40px;
+	margin-top: 7px;
+}
